@@ -1,0 +1,5 @@
+C:\Projetos - Portfolio\Abstraindo um RPG com POO\obj\Debug\net6.0\Abstraindo um RPG com POO.csproj.AssemblyReference.cache
+C:\Projetos - Portfolio\Abstraindo um RPG com POO\obj\Debug\net6.0\Abstraindo um RPG com POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos - Portfolio\Abstraindo um RPG com POO\obj\Debug\net6.0\Abstraindo um RPG com POO.AssemblyInfoInputs.cache
+C:\Projetos - Portfolio\Abstraindo um RPG com POO\obj\Debug\net6.0\Abstraindo um RPG com POO.AssemblyInfo.cs
+C:\Projetos - Portfolio\Abstraindo um RPG com POO\obj\Debug\net6.0\Abstraindo um RPG com POO.csproj.CoreCompileInputs.cache
